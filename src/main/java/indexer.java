@@ -16,7 +16,7 @@ public class indexer {
 
     }
 
-    public void add_word(String w,String page,int position,int rank)
+    public void add_word(String w,String page,int position,int rank,String origin)
     {
         PriorityQueue<word> new_row;
         if(this.data.get(w)!=null)
@@ -24,7 +24,7 @@ public class indexer {
         else
             new_row=new PriorityQueue();
 
-        new_row.add(new word(page,position,rank));
+        new_row.add(new word(page,position,rank,origin));
         this.data.put(w, new_row);
     }
 
@@ -61,8 +61,9 @@ public class indexer {
             DBCursor cursor = this.words_collection.find(new BasicDBObject("$or", list));
             List<DBObject> words = cursor.toArray();
 
-            for (DBObject o : words) {
-                this.add_word(o.get("word").toString(), o.get("page").toString(), Integer.parseInt(o.get("position").toString()), Integer.parseInt(o.get("rank").toString()));
+            for (DBObject o : words)
+            {
+                this.add_word(o.get("word").toString(), o.get("page").toString(), Integer.parseInt(o.get("position").toString()), Integer.parseInt(o.get("rank").toString()),o.get("word").toString());
             }
         }
         return this.retrieve(query);

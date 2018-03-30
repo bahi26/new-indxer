@@ -1,12 +1,13 @@
 public class word implements Comparable<word>  {
     public int postition,rank;
-    public String page;
+    public String page,origin;
 
-    public word(String page,int postition,int rank)
+    public word(String page,int postition,int rank,String origin)
     {
         this.page=page;
         this.postition=postition;
         this.rank=rank;
+        this.origin=origin;
     }
 
 
