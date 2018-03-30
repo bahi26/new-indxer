@@ -53,11 +53,15 @@ public class Wordhashing {
                 }
                 else text=element.text();
                 if(text!= ""){
+                    ArrayList data = new ArrayList<String>();
+                        data= words(text,priority,index);
 
-                    for(Object word : words(text,priority,index))
+                    for(Object word : data)
                         System.out.println(word);
+
+                    index +=data.size();
                 }
-                index +=text.length();
+
             }
 
         }
@@ -104,6 +108,8 @@ public class Wordhashing {
 
         words_list =stream(words_list);
 
+        int j=0;
+
         for(int i=0; i < words_list.length; i++)
         {
             if(words_list[i] != null && !words_list[i].equals(""))
@@ -114,9 +120,9 @@ public class Wordhashing {
                 String Text=Stemmer.stem(word);
                 String OriginalText=word;
                 String Tag= Integer.toString(tag);
-                String Position=Long.toString(index+i+1);
+                String Position=Long.toString(index+j+1);
                 result.add(Text+' '+OriginalText+' '+Position+' '+tag);
-
+                int i1 = j++;
             }
         }
 
