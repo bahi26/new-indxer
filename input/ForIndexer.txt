@@ -1,36 +1,303 @@
-https://stackoverflow.com/questions/3341516/how-we-can-download-a-html-page-using-java
-https://stackoverflow.com
-https://stackoverflow.com/help
-https://chat.stackoverflow.com
-https://meta.stackoverflow.com
-https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent
-https://stackoverflow.com/users/login?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f3341516%2fhow-we-can-download-a-html-page-using-java
-https://stackexchange.com/sites
-https://stackoverflow.blog
-https://stackoverflow.com/company/about
-https://www.stackoverflowbusiness.com/?ref=topbar_help
-https://stackexchange.com
-https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2fquestions%2f3341516%2fhow-we-can-download-a-html-page-using-java
-https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent
-https://insights.stackoverflow.com/survey/2018/
-http://stackoverflow.com/questions/2664404/retrieving-a-web-page-including-embedded-objects
-http://stackoverflow.com/questions/2302233/download-file-by-passing-url-using-java-code
-http://hc.apache.org/httpcomponents-client-ga/
-https://stackexchange.com/legal/privacy-policy
-https://stackexchange.com/legal/terms-of-service
-https://stackoverflow.com/election
-https://stackexchange.com/questions?tab=hot
-https://codegolf.stackexchange.com/questions/158132/no-a-just-caps-lock
-https://salesforce.stackexchange.com/questions/212076/how-to-read-field-values-from-aggregateresult
-https://skeptics.stackexchange.com/questions/40925/is-rub-al-khali-the-largest-sand-desert-in-the-world
-https://codereview.stackexchange.com/questions/189999/two-sum-leetcode
-https://math.stackexchange.com/questions/2699708/in-general-what-techniques-can-be-used-to-show-that-2-groups-are-not-isomorphic
-https://outdoors.stackexchange.com/questions/18785/what-is-the-relationship-between-altitude-gain-and-temperature-decrease-when-mou
-https://cseducators.stackexchange.com/questions/4519/avoid-students-being-distracted-by-bells-and-whistles
-https://worldbuilding.stackexchange.com/questions/107347/what-are-the-ley-lines-this-nomadic-people-uses-to-follow-the-same-path-year-aft
-https://superuser.com/questions/1305781/why-is-my-linux-system-repeating-every-command-that-i-type
-https://worldbuilding.stackexchange.com/questions/107426/julius-caesar-with-a-one-time-pad
-https://crypto.stackexchange.com/questions/57645/is-using-the-same-iv-in-aes-similar-to-not-using-an-iv-in-the-first-place
-https://tridion.stackexchange.com/questions/18598/fetching-keywords-from-sdl
-https://unix.stackexchange.com/questions/432002/after-accidentally-renaming-usr-how-do-i-rename-it-back
-https://academia.stackexchange.com/questions/106737/withdraw-manuscript-from-peer-review-after-finding-a-major-error
+http://www.cnet.co.kr/ 538
+http://dhss.alaska.gov/News/Documents/press/2011/Anchorage_art_exhibit_autism_PR033111.pdf 539
+https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%94%E1%83%A3%E1%83%A0%E1%83%9C%E1%83%94%E1%83%9D%E1%83%91%E1%83%90 540
+https://lez.wikipedia.org/wiki/%D0%A5%D1%83%D1%8C%D1%80%D1%83%D1%8C%D0%BD_%D0%BC%D0%B0%D0%B9%D0%B8%D1%88%D0%B0%D1%82 541
+https://lad.wikipedia.org/wiki/Agrikultura 542
+https://ltg.wikipedia.org/wiki/Solsaimesteiba 543
+https://lo.wikipedia.org/wiki/%E0%BA%81%E0%BA%B0%E0%BA%AA%E0%BA%B4%E0%BA%81%E0%BA%B3 544
+https://lt.wikipedia.org/wiki/%C5%BDem%C4%97s_%C5%ABkis 545
+https://la.wikipedia.org/wiki/Agricultura 546
+https://li.wikipedia.org/wiki/Landboew 547
+https://lg.wikipedia.org/wiki/Ebyamalimiro 548
+https://hu.wikipedia.org/wiki/Mez%C5%91gazdas%C3%A1g 549
+https://mai.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF 550
+https://mk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D1%98%D0%BE%D0%B4%D0%B5%D0%BB%D1%81%D1%82%D0%B2%D0%BE 551
+https://lv.wikipedia.org/wiki/Lauksaimniec%C4%ABba 553
+https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%83%E0%B4%B7%E0%B4%BF 553
+https://arz.wikipedia.org/wiki/%D8%B2%D8%B1%D8%A7%D8%B9%D9%87 554
+https://mzn.wikipedia.org/wiki/%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C 555
+https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%A3%E1%83%A2%E1%83%94%E1%83%A8_%E1%83%9B%E1%83%94%E1%83%A3%E1%83%A0%E1%83%9C%E1%83%9D%E1%83%91%E1%83%90 556
+https://mr.wikipedia.org/wiki/%E0%A4%B6%E0%A5%87%E0%A4%A4%E0%A5%80 557
+https://ms.wikipedia.org/wiki/Pertanian 558
+https://mwl.wikipedia.org/wiki/Agricultura 559
+https://mn.wikipedia.org/wiki/%D0%A5%D3%A9%D0%B4%D3%A9%D3%A9_%D0%B0%D0%B6_%D0%B0%D1%85%D1%83%D0%B9 560
+https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%95%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%B1%E1%80%B8 561
+https://nds-nl.wikipedia.org/wiki/Laandbouw 562
+https://nah.wikipedia.org/wiki/M%C4%ABllahcay%C5%8Dtl 563
+https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF 564
+https://nl.wikipedia.org/wiki/Landbouw 565
+https://new.wikipedia.org/wiki/%E0%A4%AC%E0%A5%81%E0%A4%81%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE 566
+https://frr.wikipedia.org/wiki/B%C3%BC%C3%BCrerei 567
+https://nn.wikipedia.org/wiki/Landbruk 568
+https://ja.wikipedia.org/wiki/%E8%BE%B2%E6%A5%AD 569
+https://nov.wikipedia.org/wiki/Agrikulture 570
+https://nrm.wikipedia.org/wiki/Agritchultuthe 571
+https://no.wikipedia.org/wiki/Landbruk 572
+https://or.wikipedia.org/wiki/%E0%AC%95%E0%AD%83%E0%AC%B7%E0%AC%BF 573
+https://oc.wikipedia.org/wiki/Agricultura 574
+https://uz.wikipedia.org/wiki/Qishloq_xo%CA%BBjaligi 575
+https://pa.wikipedia.org/wiki/%E0%A8%96%E0%A9%87%E0%A8%A4%E0%A9%80%E0%A8%AC%E0%A8%BE%E0%A9%9C%E0%A9%80 576
+https://pfl.wikipedia.org/wiki/Landwirtschaft 577
+https://pnb.wikipedia.org/wiki/%D9%88%D8%A7%D8%A6%DB%8C_%D8%A8%DB%8C%D8%AC%DB%8C 578
+https://ps.wikipedia.org/wiki/%DA%A9%D8%B1%D9%86%D9%87 579
+https://km.wikipedia.org/wiki/%E1%9E%80%E1%9E%9F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%98 580
+https://nds.wikipedia.org/wiki/Bueree 581
+https://tpi.wikipedia.org/wiki/Egrikalsa 582
+https://jam.wikipedia.org/wiki/Agrikolcha 583
+https://pl.wikipedia.org/wiki/Rolnictwo 584
+https://ro.wikipedia.org/wiki/Agricultur%C4%83 585
+https://pt.wikipedia.org/wiki/Agricultura 586
+https://qu.wikipedia.org/wiki/Allpa_llamk%27ay 587
+https://rm.wikipedia.org/wiki/Agricultura 588
+https://rue.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE 589
+https://sah.wikipedia.org/wiki/%D0%90%D0%B3%D1%80%D0%B8%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%83%D1%80%D0%B0 590
+https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE 591
+https://sa.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF%E0%A4%83 592
+https://sc.wikipedia.org/wiki/Agricultura 593
+https://stq.wikipedia.org/wiki/Buur%C3%A4i 594
+https://sco.wikipedia.org/wiki/Agricultur 595
+https://sq.wikipedia.org/wiki/Agrikultura 596
+https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%98%E0%B7%82%E0%B7%92%E0%B6%9A%E0%B6%BB%E0%B7%8A%E0%B6%B8%E0%B6%BA 597
+https://scn.wikipedia.org/wiki/Agricultura 598
+https://simple.wikipedia.org/wiki/Farming 599
+https://sd.wikipedia.org/wiki/%D8%B2%D8%B1%D8%A7%D8%B9%D8%AA 600
+https://sl.wikipedia.org/wiki/Kmetijstvo 601
+https://sk.wikipedia.org/wiki/Po%C4%BEnohospod%C3%A1rstvo 602
+https://so.wikipedia.org/wiki/Beer 603
+https://szl.wikipedia.org/wiki/Bauerstwo 604
+https://ckb.wikipedia.org/wiki/%D9%88%DB%95%D8%B1%D8%B2%DB%8E%D8%B1%DB%8C 605
+https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%99%D0%BE%D0%BF%D1%80%D0%B8%D0%B2%D1%80%D0%B5%D0%B4%D0%B0 606
+https://sh.wikipedia.org/wiki/Poljoprivreda 607
+https://su.wikipedia.org/wiki/Agrikultur 608
+https://fi.wikipedia.org/wiki/Maatalous 609
+https://sv.wikipedia.org/wiki/Jordbruk 610
+https://tl.wikipedia.org/wiki/Agrikultura 611
+https://tet.wikipedia.org/wiki/Agrikultura 612
+https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B1%8D%E0%B0%AF%E0%B0%B5%E0%B0%B8%E0%B0%BE%E0%B0%AF%E0%B0%82 613
+https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%87%E0%AE%B3%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%AE%E0%AF%88 614
+https://ti.wikipedia.org/wiki/%E1%88%95%E1%88%AD%E1%88%BB 615
+https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1 616
+https://tt.wikipedia.org/wiki/%D0%90%D0%B2%D1%8B%D0%BB_%D1%85%D1%83%D2%97%D0%B0%D0%BB%D1%8B%D0%B3%D1%8B 617
+https://tg.wikipedia.org/wiki/%D0%90%D0%B3%D1%80%D0%B0%D1%80%D3%A3 618
+https://tr.wikipedia.org/wiki/Tar%C4%B1m 619
+https://chr.wikipedia.org/wiki/%E1%8F%97%E1%8E%A6%E1%8E%B6%E1%8E%AA%E1%8F%97 621
+https://uk.wikipedia.org/wiki/%D0%A1%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B5_%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE 622
+https://tk.wikipedia.org/wiki/Oba_hojalygy 622
+https://vep.wikipedia.org/wiki/Mai%C5%BEanduz 623
+https://ur.wikipedia.org/wiki/%D8%B2%D8%B1%D8%A7%D8%B9%D8%AA 624
+https://vi.wikipedia.org/wiki/N%C3%B4ng_nghi%E1%BB%87p 625
+https://wa.wikipedia.org/wiki/Agrico%C3%BBteure 626
+https://vec.wikipedia.org/wiki/Agricoltura 627
+https://fiu-vro.wikipedia.org/wiki/P%C3%B5llumajandus 628
+https://zh-classical.wikipedia.org/wiki/%E8%BE%B2 629
+https://war.wikipedia.org/wiki/Agrikultura 630
+https://wuu.wikipedia.org/wiki/%E5%86%9C%E4%B8%9A 631
+https://ts.wikipedia.org/wiki/Vurimi 632
+https://zh-yue.wikipedia.org/wiki/%E8%BE%B2%E6%A5%AD 633
+https://yi.wikipedia.org/wiki/%D7%9C%D7%90%D7%A0%D7%93%D7%95%D7%95%D7%99%D7%A8%D7%98%D7%A9%D7%90%D7%A4%D7%98 634
+https://zh.wikipedia.org/wiki/%E5%86%9C%E4%B8%9A 635
+https://bat-smg.wikipedia.org/wiki/%C5%BDemies_%C5%ABkis 636
+https://kbp.wikipedia.org/wiki/Ha%C9%96a%CA%8B 637
+https://www.wikidata.org/wiki/Special:EntityPage/Q11451#sitelinks-wikipedia 638
+https://en.wiktionary.org/wiki/rank_and_file 640
+http://dictionary.reference.com/browse/industry 640
+https://web.archive.org/web/20110814041034/http://www.questia.com/PM.qst?a=o&d=102816164 641
+https://en.wiktionary.org/wiki/industry 642
+https://web.archive.org/web/20140204025505/http://dictionary.reference.com/browse/industry 643
+https://commons.wikimedia.org/wiki/Category:Industries 644
+https://web.archive.org/web/20132117352400/http://www.investopedia.com/terms/i/industry.asp 645
+https://en.wikiquote.org/wiki/industry 646
+https://www.questia.com/PM.qst?a=o&d=102816164 647
+https://en.wikiquote.org/wiki/Industry 648
+https://en.wikipedia.org/w/index.php?title=Industry&oldid=827515519 649
+https://www.wikidata.org/wiki/Special:EntityPage/Q8148 650
+https://af.wikipedia.org/wiki/Nywerheid 651
+https://als.wikipedia.org/wiki/Industrie 652
+https://ar.wikipedia.org/wiki/%D8%B5%D9%86%D8%A7%D8%B9%D8%A9 653
+https://id.ndl.go.jp/auth/ndlna/00570111 654
+https://ab.wikipedia.org/wiki/%D0%90%D0%B0%D0%B3%D0%B0%D0%BB%D1%8B%D1%85 655
+https://ast.wikipedia.org/wiki/Industria 656
+https://as.wikipedia.org/wiki/%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97 657
+https://an.wikipedia.org/wiki/Industria 658
+https://az.wikipedia.org/wiki/S%C9%99naye 659
+https://ba.wikipedia.org/wiki/%D0%A1%D3%99%D0%BD%D3%99%D2%93%D3%99%D1%82 660
+https://be.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%81%D1%86%D1%8C 661
+https://zh-min-nan.wikipedia.org/wiki/S%C3%A1n-gia%CC%8Dp 662
+https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%88%D0%BB%D0%B5%D0%BD%D0%BE%D1%81%D1%82 663
+https://bs.wikipedia.org/wiki/Industrija 664
+https://bxr.wikipedia.org/wiki/%D0%90%D0%B6%D0%B0%D2%AF%D0%B9%D0%BB%D1%8D%D0%B4%D0%B1%D1%8D%D1%80%D0%B8 665
+https://br.wikipedia.org/wiki/Greanterezh 666
+https://ca.wikipedia.org/wiki/Ind%C3%BAstria 667
+https://cv.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%C4%83%C3%A7%D0%BB%C4%83%D1%85 668
+https://ceb.wikipedia.org/wiki/Industriya 669
+https://sn.wikipedia.org/wiki/Hushangazhi 670
+https://cs.wikipedia.org/wiki/Pr%C5%AFmysl 671
+https://da.wikipedia.org/wiki/Industri 672
+https://de.wikipedia.org/wiki/Industrie 673
+https://cy.wikipedia.org/wiki/Diwydiant 674
+https://co.wikipedia.org/wiki/Industria 675
+https://et.wikipedia.org/wiki/T%C3%B6%C3%B6stus 676
+https://es.wikipedia.org/wiki/Industria 677
+https://eo.wikipedia.org/wiki/Industrio 678
+https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BF%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AF%CE%B1 679
+https://fa.wikipedia.org/wiki/%D8%B5%D9%86%D8%B9%D8%AA 680
+https://hif.wikipedia.org/wiki/Industry 681
+https://eu.wikipedia.org/wiki/Industria 682
+https://fy.wikipedia.org/wiki/Yndustry 683
+https://fur.wikipedia.org/wiki/Industrie 684
+https://ga.wikipedia.org/wiki/Tionscal 685
+https://fr.wikipedia.org/wiki/Industrie 686
+https://gl.wikipedia.org/wiki/Industria 687
+https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97 688
+https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85 689
+https://io.wikipedia.org/wiki/Industrio 690
+https://hr.wikipedia.org/wiki/Industrija 691
+https://ilo.wikipedia.org/wiki/Industria 692
+https://ia.wikipedia.org/wiki/Industria 693
+https://id.wikipedia.org/wiki/Industri 694
+https://is.wikipedia.org/wiki/I%C3%B0na%C3%B0ur 695
+https://it.wikipedia.org/wiki/Industria 696
+https://jv.wikipedia.org/wiki/Indhustri 697
+https://he.wikipedia.org/wiki/%D7%AA%D7%A2%D7%A9%D7%99%D7%99%D7%94 698
+https://krc.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C 699
+https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%A0%E1%83%94%E1%83%AC%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%91%E1%83%90 700
+https://kl.wikipedia.org/wiki/Suliffissualerineq 701
+https://csb.wikipedia.org/wiki/Industr%C3%ABj%C3%B4 702
+https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B3%88%E0%B2%97%E0%B2%BE%E0%B2%B0%E0%B2%BF%E0%B2%95%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81 703
+https://kk.wikipedia.org/wiki/%D3%A8%D0%BD%D0%B5%D1%80%D0%BA%D3%99%D1%81%D1%96%D0%BF 704
+https://sw.wikipedia.org/wiki/Sekta_ya_viwanda 705
+https://lez.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C 706
+https://ht.wikipedia.org/wiki/Endistri 707
+https://ku.wikipedia.org/wiki/P%C3%AE%C5%9Fesaz%C3%AE 709
+https://lo.wikipedia.org/wiki/%E0%BA%AD%E0%BA%B8%E0%BA%94%E0%BA%AA%E0%BA%B2%E0%BA%AB%E0%BA%B0%E0%BA%81%E0%BA%B3 709
+https://lrc.wikipedia.org/wiki/%D8%B5%D8%A3%D9%86%D8%B9%D8%A3%D8%AA 710
+https://lb.wikipedia.org/wiki/Industrie 711
+https://lv.wikipedia.org/wiki/R%C5%ABpniec%C4%ABba 712
+https://lt.wikipedia.org/wiki/Pramon%C4%97 713
+https://la.wikipedia.org/wiki/Industria 714
+https://li.wikipedia.org/wiki/Industrie 715
+https://hu.wikipedia.org/wiki/Ipar 716
+https://mg.wikipedia.org/wiki/Indostria 717
+https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%8D%E0%B4%AF%E0%B4%B5%E0%B4%B8%E0%B4%BE%E0%B4%AF%E0%B4%82 718
+https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%98%D0%B0 719
+https://mr.wikipedia.org/wiki/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97 720
+https://mzn.wikipedia.org/wiki/%D8%B5%D9%86%D8%B9%D8%AA 721
+https://ms.wikipedia.org/wiki/Industri 722
+https://arz.wikipedia.org/wiki/%D8%B5%D9%86%D8%A7%D8%B9%D9%87 723
+https://mwl.wikipedia.org/wiki/And%C3%BAstria 724
+https://my.wikipedia.org/wiki/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%91%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%AF%E1%80%95%E1%80%BA%E1%80%84%E1%80%94%E1%80%BA%E1%80%B8 725
+https://nl.wikipedia.org/wiki/Industrie 726
+https://mn.wikipedia.org/wiki/%D0%90%D0%B6_%D2%AF%D0%B9%D0%BB%D0%B4%D0%B2%D1%8D%D1%80 727
+https://ne.wikipedia.org/wiki/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97 728
+https://new.wikipedia.org/wiki/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97 729
+https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD 730
+https://ce.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8 731
+https://frr.wikipedia.org/wiki/Industrii 732
+https://nn.wikipedia.org/wiki/Industri 733
+https://nov.wikipedia.org/wiki/Industrie 734
+https://no.wikipedia.org/wiki/Industri 735
+https://oc.wikipedia.org/wiki/Ind%C3%BAstria 736
+https://uz.wikipedia.org/wiki/Sanoat 737
+https://mhr.wikipedia.org/wiki/%D0%99%D3%A7%D0%BD%D0%BE%D0%B7%D0%B0%D0%BD%D0%BB%D1%8B%D0%BA 738
+https://pnb.wikipedia.org/wiki/%D8%A7%D9%86%DA%88%D8%B3%D9%B9%D8%B1%DB%8C 739
+https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%A8%E0%A8%85%E0%A8%A4 740
+https://jam.wikipedia.org/wiki/Indoschri 741
+https://ps.wikipedia.org/wiki/%D8%B1%D8%BA%D8%A7%D9%88%D9%87 742
+https://pms.wikipedia.org/wiki/Industria 743
+https://nds.wikipedia.org/wiki/Industrie 744
+https://pl.wikipedia.org/wiki/Przemys%C5%82 745
+https://pt.wikipedia.org/wiki/Ind%C3%BAstria 746
+https://rue.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%81%D0%B5%D0%BB 747
+https://qu.wikipedia.org/wiki/Ruraychaqa 748
+https://ro.wikipedia.org/wiki/Industrie 749
+https://sah.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F 750
+https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C 751
+https://sco.wikipedia.org/wiki/Industrie 752
+https://sq.wikipedia.org/wiki/Industria 753
+https://scn.wikipedia.org/wiki/Nnustria 754
+https://sc.wikipedia.org/wiki/Ind%C3%B9stria 755
+https://simple.wikipedia.org/wiki/Industry 756
+https://sl.wikipedia.org/wiki/Industrija 757
+https://sk.wikipedia.org/wiki/Priemysel 758
+https://so.wikipedia.org/wiki/Warshad 759
+https://ckb.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B4%DB%95%D8%B3%D8%A7%D8%B2%DB%8C 760
+https://fi.wikipedia.org/wiki/Teollisuus 761
+https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%98%D0%B0 762
+https://su.wikipedia.org/wiki/Industri 763
+https://sh.wikipedia.org/wiki/Industrija 764
+https://tt.wikipedia.org/wiki/S%C3%A4n%C3%A4%C4%9F%C3%A4t 765
+https://tl.wikipedia.org/wiki/Industriya 766
+https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%B1%E0%AF%88 767
+https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1 768
+https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%B6%E0%B1%8D%E0%B0%B0%E0%B0%AE 769
+https://tr.wikipedia.org/wiki/End%C3%BCstri 770
+https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C 771
+https://sv.wikipedia.org/wiki/Industri 772
+https://ur.wikipedia.org/wiki/%D8%B5%D9%86%D8%B9%D8%AA 773
+https://vec.wikipedia.org/wiki/Endustria 774
+https://fiu-vro.wikipedia.org/wiki/T%C3%BC%C3%BCst%C3%BCs 775
+https://war.wikipedia.org/wiki/Industriya 776
+https://vep.wikipedia.org/wiki/Tegimi%C5%A1t 777
+https://vi.wikipedia.org/wiki/C%C3%B4ng_nghi%E1%BB%87p 778
+https://ts.wikipedia.org/wiki/Tinkomponi 779
+https://wuu.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A 780
+https://wo.wikipedia.org/wiki/Yewwute_gu_ndefar 781
+https://diq.wikipedia.org/wiki/Endustriye 782
+https://zh-yue.wikipedia.org/wiki/%E7%94%A2%E6%A5%AD 783
+https://yi.wikipedia.org/wiki/%D7%90%D7%99%D7%A0%D7%93%D7%95%D7%A1%D7%98%D7%A8%D7%99%D7%A2 784
+https://yo.wikipedia.org/wiki/I%E1%B9%A3%E1%BA%B9%CC%81_%E1%BA%B9l%E1%BA%B9%CC%81r%E1%BB%8D 785
+https://bat-smg.wikipedia.org/wiki/Indostr%C4%97j%C4%97 786
+https://zh.wikipedia.org/wiki/%E4%BA%A7%E4%B8%9A 787
+https://www.wikidata.org/wiki/Special:EntityPage/Q8148#sitelinks-wikipedia 788
+https://en.wiktionary.org/wiki/survival 789
+https://en.wiktionary.org/wiki/freedom 790
+http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp?id=12100795 792
+https://web.archive.org/web/20171207092900/http://www.iucnredlist.org/details/136584/0 793
+http://www.iucnredlist.org/details/136584/0 793
+http://animaldiversity.ummz.umich.edu/site/accounts/classification/Hominidae.html 794
+https://web.archive.org/web/20061005035254/http://animaldiversity.ummz.umich.edu/site/accounts/classification/Hominidae.html 795
+https://www.inverse.com/article/39908-ancient-human-evolution-science 796
+https://web.archive.org/web/20160116234808/http://www.britannica.com/topic/hunting-and-gathering-culture 798
+https://web.archive.org/web/20180126012411/https://www.inverse.com/article/39908-ancient-human-evolution-science 798
+https://web.archive.org/web/20160728101323/https://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20%28Standard%29/EXCEL_FILES/1_Population/WPP2015_POP_F01_1_TOTAL_POPULATION_BOTH_SEXES.XLS 800
+https://web.archive.org/web/20170717194212/http://www.ancient.eu/Neolithic/ 800
+https://www.merriam-webster.com/dictionary/man 801
+http://dictionary.reference.com/browse/Homo 802
+http://adsabs.harvard.edu/abs/1990JMolE..30..260G 803
+https://web.archive.org/web/20170922050822/https://www.merriam-webster.com/dictionary/man 804
+http://adsabs.harvard.edu/abs/2009AREPS..37...67T 806
+https://web.archive.org/web/20080927011551/http://dictionary.reference.com/browse/homo 806
+https://web.archive.org/web/20150725141602/http://www.etymonline.com/index.php?term=Homo+sapiens&allowed_in_frame=0 807
+https://web.archive.org/web/20110427201317/http://www.sciencenews.org/view/generic/id/69197/title/Hints_of_earlier_human_exit_from_Africa 808
+https://web.archive.org/web/20100522032853/http://researchcommons.waikato.ac.nz/bitstream/10289/2690/1/Lowe%202008%20Polynesian%20settlement%20guidebook.pdf 809
+http://www.bbc.co.uk/news/science-environment-12300228 811
+https://web.archive.org/web/20120809051349/http://www.bbc.co.uk/news/science-environment-12300228 812
+https://web.archive.org/web/20070813080322/http://mbe.oxfordjournals.org/cgi/reprint/14/3/248 812
+http://www.evolutionpages.com/chromosome_2.htm 813
+https://www.youtube.com/watch?v=x-WAHpC0Ah0 814
+https://web.archive.org/web/20170122123741/https://www.youtube.com/watch?v=x-WAHpC0Ah0 815
+http://www.bbc.co.uk/news/science-environment-31718336 816
+https://web.archive.org/web/20150304232948/http://www.bbc.co.uk/news/science-environment-31718336 817
+http://adsabs.harvard.edu/abs/2012Natur.485...24A 818
+http://adsabs.harvard.edu/abs/2015Sci...347.1352V 819
+https://web.archive.org/web/20120904025708/http://cat.inist.fr/?aModele=afficheN&cpsidt=4290541 820
+http://adsabs.harvard.edu/abs/2015Natur.521..310H 821
+https://web.archive.org/web/20160416042640/https://books.google.com/books?id=9WemAAAAIAAJ&pg=PA1 822
+http://adsabs.harvard.edu/abs/2003Natur.423..742W 823
+http://archaeologyinfo.com/homo-neanderthalensis/ 824
+https://web.archive.org/web/20150908094004/http://archaeologyinfo.com/homo-neanderthalensis/ 825
+https://web.archive.org/web/20120130142744/http://www.berkeley.edu/news/media/releases/99legacy/6-14-1999a.html 826
+http://cat.inist.fr/?aModele=afficheN&cpsidt=4290541 827
+http://www.pnas.org/content/108/35/14555.full?sid=95c4876b-9870-4259-888f-24a6179be4fc 828
+https://web.archive.org/web/20150924155347/http://www.pnas.org/content/108/35/14555.full?sid=95c4876b-9870-4259-888f-24a6179be4fc 829
+http://psych.colorado.edu/~tito/sp03/7536/Dunbar_1998.pdf 830
+https://web.archive.org/web/20160412210459/http://psych.colorado.edu/~tito/sp03/7536/Dunbar_1998.pdf 831
+http://adsabs.harvard.edu/abs/2015PNAS..112.4877W 832
+https://web.archive.org/web/20160416042630/https://books.google.com/books?id=ITp_RnsPfzQC&pg=PA17 833
+https://www.nytimes.com/2016/03/22/science/neanderthals-interbred-with-humans-denisovans.html 834
+https://web.archive.org/web/20160317184115/http://www.nytimes.com/2016/03/22/science/neanderthals-interbred-with-humans-denisovans.html 835
+http://adsabs.harvard.edu/abs/2011PNAS..10814555O 836
+https://web.archive.org/web/20080421190745/http://news.nationalgeographic.com/news/2008/04/080403-first-americans.html 837
+http://www.greatachievements.org/ 838
+https://web.archive.org/web/20150905105225/https://books.google.com/books?id=LceiAgAAQBAJ&pg=PT65&dq=western+civilisation+egypt&hl=en&sa=X&ei=i6mgVcGQOOPjywONz6WIDQ&ved=0CC4Q6AEwAjgK#v=onepage&q=western%20civilisation%20egypt&f=false 839
+https://web.archive.org/web/20160605192731/http://www.geohive.com/earth/his_history1.aspx 840

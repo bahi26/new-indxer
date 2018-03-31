@@ -12,7 +12,8 @@ public class indexer {
         this.data=new HashMap();
         this.urls=new HashMap();
         this.words_collection=words_collection;
-        for(DBObject page:pages) this.urls.put(page.get("url").toString(),Integer.parseInt(page.get("video").toString()));
+        //Integer.parseInt(page.get("video").toString())
+        for(DBObject page:pages) this.urls.put(page.get("url").toString(),0);
 
     }
 
@@ -63,7 +64,7 @@ public class indexer {
 
             for (DBObject o : words)
             {
-                this.add_word(o.get("word").toString(), o.get("page").toString(), Integer.parseInt(o.get("position").toString()), Integer.parseInt(o.get("rank").toString()),o.get("word").toString());
+                this.add_word(o.get("word").toString(), o.get("url").toString(), Integer.parseInt(o.get("position").toString()), Integer.parseInt(o.get("rank").toString()),o.get("word").toString());
             }
         }
         return this.retrieve(query);
