@@ -2,17 +2,356 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef79d147-3dac-4aeb-bb35-a212fef3196b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Wordhashing.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/538.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/539.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/540.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/541.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/542.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/543.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/544.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/545.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/546.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/547.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/548.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/549.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/550.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/551.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/552.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/553.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/554.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/555.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/556.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/557.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/558.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/559.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/560.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/561.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/562.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/563.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/564.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/565.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/566.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/567.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/568.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/569.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/570.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/571.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/572.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/573.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/574.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/575.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/576.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/577.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/578.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/579.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/580.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/581.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/582.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/583.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/584.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/585.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/586.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/587.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/588.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/589.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/590.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/591.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/592.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/593.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/594.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/595.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/596.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/597.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/598.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/599.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/600.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/601.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/602.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/603.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/604.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/605.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/606.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/607.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/608.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/609.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/610.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/611.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/612.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/613.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/614.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/615.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/616.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/617.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/618.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/619.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/620.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/621.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/622.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/623.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/624.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/625.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/626.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/627.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/628.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/629.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/630.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/631.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/632.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/633.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/634.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/635.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/636.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/637.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/638.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/639.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/640.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/641.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/642.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/643.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/644.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/645.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/646.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/647.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/648.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/649.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/650.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/651.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/652.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/653.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/654.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/655.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/656.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/657.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/658.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/659.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/660.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/661.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/662.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/663.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/664.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/665.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/666.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/667.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/668.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/669.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/670.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/671.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/672.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/673.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/674.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/675.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/676.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/677.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/678.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/679.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/680.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/681.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/682.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/683.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/684.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/685.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/686.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/687.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/688.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/689.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/690.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/691.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/692.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/693.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/694.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/695.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/696.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/697.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/698.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/699.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/700.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/701.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/702.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/703.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/704.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/705.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/706.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/707.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/708.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/709.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/710.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/711.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/712.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/713.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/714.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/715.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/716.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/717.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/718.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/719.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/720.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/721.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/722.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/723.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/724.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/725.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/726.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/727.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/728.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/729.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/730.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/731.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/732.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/733.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/734.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/735.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/736.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/737.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/738.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/739.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/740.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/741.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/742.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/743.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/744.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/745.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/746.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/747.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/748.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/749.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/750.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/751.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/752.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/753.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/754.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/755.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/756.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/757.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/758.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/759.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/760.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/761.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/762.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/763.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/764.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/765.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/766.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/767.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/768.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/769.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/770.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/771.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/772.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/773.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/774.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/775.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/776.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/777.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/778.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/779.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/780.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/781.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/782.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/783.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/784.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/785.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/786.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/787.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/788.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/789.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/790.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/791.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/792.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/793.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/794.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/795.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/796.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/797.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/798.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/799.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/800.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/801.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/802.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/803.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/804.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/805.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/806.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/807.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/808.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/809.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/810.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/811.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/812.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/813.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/814.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/815.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/816.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/817.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/818.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/819.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/820.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/821.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/822.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/823.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/824.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/825.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/826.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/827.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/828.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/829.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/830.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/831.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/832.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/833.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/834.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/835.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/836.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/837.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/838.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/839.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/input/840.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/DBConnection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Stemmer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/Wordhashing.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/indexer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/word.class" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/input/ForIndexer.txt" afterPath="$PROJECT_DIR$/input/ForIndexer.txt" />
+      <change beforePath="$PROJECT_DIR$/input/httphcapacheorghttpcomponents-client-ga.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsacademiastackexchangecomquestions106737withdraw-manuscript-from-peer-review-after-finding-a-major-error.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpschatstackoverflowcom.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpscodegolfstackexchangecomquestions158132no-a-just-caps-lock.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpscodereviewstackexchangecomquestions189999two-sum-leetcode.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpscryptostackexchangecomquestions57645is-using-the-same-iv-in-aes-similar-to-not-using-an-iv-in-the-first-place.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpscseducatorsstackexchangecomquestions4519avoid-students-being-distracted-by-bells-and-whistles.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsinsightsstackoverflowcomsurvey2018.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsmathstackexchangecomquestions2699708in-general-what-techniques-can-be-used-to-show-that-2-groups-are-not-isomorphic.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsmetastackoverflowcom.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsoutdoorsstackexchangecomquestions18785what-is-the-relationship-between-altitude-gain-and-temperature-decrease-when-mou.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpssalesforcestackexchangecomquestions212076how-to-read-field-values-from-aggregateresult.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsskepticsstackexchangecomquestions40925is-rub-al-khali-the-largest-sand-desert-in-the-world.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackexchangecom.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackexchangecomlegalprivacy-policy.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackexchangecomlegalterms-of-service.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackexchangecomquestionstab=hot.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackexchangecomsites.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowblog.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcom.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomcompanyabout.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomelection.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomhelp.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomquestions3341516how-we-can-download-a-html-page-using-java.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomusersloginssrc=head&amp;returnurl=https%3a%2f%2fstackoverflowcom%2fquestions%2f3341516%2fhow-we-can-download-a-html-page-using-java.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomusersloginssrc=site_switcher&amp;returnurl=https%3a%2f%2fstackoverflowcom%2fquestions%2f3341516%2fhow-we-can-download-a-html-page-using-java.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomuserssignupssrc=head&amp;returnurl=%2fusers%2fstory%2fcurrent.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsstackoverflowcomuserssignupssrc=site_switcher&amp;returnurl=%2fusers%2fstory%2fcurrent.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpssuperusercomquestions1305781why-is-my-linux-system-repeating-every-command-that-i-type.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpstackoverflowcomquestions2302233download-file-by-passing-url-using-java-code.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpstackoverflowcomquestions2664404retrieving-a-web-page-including-embedded-objects.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpstridionstackexchangecomquestions18598fetching-keywords-from-sdl.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsunixstackexchangecomquestions432002after-accidentally-renaming-usr-how-do-i-rename-it-back.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsworldbuildingstackexchangecomquestions107347what-are-the-ley-lines-this-nomadic-people-uses-to-follow-the-same-path-year-aft.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpsworldbuildingstackexchangecomquestions107426julius-caesar-with-a-one-time-pad.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/httpswwwstackoverflowbusinesscomref=topbar_help.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/input/urls.txt" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/main/java/indexer.java" afterPath="$PROJECT_DIR$/src/main/java/indexer.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" afterPath="$PROJECT_DIR$/src/main/java/main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/word.java" afterPath="$PROJECT_DIR$/src/main/java/word.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DBConnection.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/indexer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/word.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,21 +378,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indexer.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indexer.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="word.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/word.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,22 +391,22 @@
       <file leaf-file-name="indexer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/indexer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="189">
+              <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#931#932#0" expanded="true" />
-                <element signature="e#958#959#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+            <state relative-caret-position="462">
+              <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#set_Data#0;class#main#0" expanded="false" />
@@ -89,32 +418,22 @@
       <file leaf-file-name="Stemmer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Stemmer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="234" column="29" lean-forward="true" selection-start-line="234" selection-start-column="29" selection-end-line="234" selection-end-column="29" />
+            <state relative-caret-position="-2027">
+              <caret line="225" column="62" lean-forward="false" selection-start-line="225" selection-start-column="62" selection-end-line="225" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wordhashing.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Wordhashing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Wordhashing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2834#2842#0" expanded="true" />
+                <element signature="e#2936#2944#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Predicate.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -149,11 +468,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/DBConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/word.java" />
-        <option value="$PROJECT_DIR$/src/main/java/indexer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stemmer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/indexer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Wordhashing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main.java" />
       </list>
     </option>
   </component>
@@ -206,6 +525,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -237,7 +557,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -397,12 +716,14 @@
       <workItem from="1522312038833" duration="5042000" />
       <workItem from="1522333587577" duration="748000" />
       <workItem from="1522387876116" duration="3886000" />
-      <workItem from="1522410861173" duration="136000" />
+      <workItem from="1522410861173" duration="1760000" />
+      <workItem from="1522471467916" duration="4202000" />
+      <workItem from="1522486643660" duration="220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36281000" />
+    <option name="totallyTimeSpent" value="42327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -415,8 +736,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -427,13 +748,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -449,7 +770,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/main.java</url>
-          <line>50</line>
+          <line>51</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -473,8 +794,8 @@
           <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -504,8 +825,8 @@
           <caret line="61" column="34" lean-forward="false" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -521,13 +842,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/urls.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/input/urls.txt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/word.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -558,8 +873,8 @@
           <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -604,8 +919,8 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -650,8 +965,8 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -696,8 +1011,8 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -794,8 +1109,8 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -825,13 +1140,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/urls.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/input/urls.txt" />
     <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -843,38 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#set_Data#0;class#main#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/indexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -894,21 +1170,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/indexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Stemmer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="234" column="29" lean-forward="true" selection-start-line="234" selection-start-column="29" selection-end-line="234" selection-end-column="29" />
+        <state relative-caret-position="-2027">
+          <caret line="225" column="62" lean-forward="false" selection-start-line="225" selection-start-column="62" selection-end-line="225" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Wordhashing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2834#2842#0" expanded="true" />
+            <element signature="e#2936#2944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#set_Data#0;class#main#0" expanded="false" />
           </folding>
         </state>
       </provider>

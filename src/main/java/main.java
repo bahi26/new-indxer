@@ -45,6 +45,7 @@ public class main {
             List<DBObject> pages=new ArrayList();
 
             List<DBObject> words_list=new ArrayList();
+            int itr=1;
             while ((line = urls.readLine()) != null)
             {
 
@@ -54,24 +55,28 @@ public class main {
 
                 pages.add( new BasicDBObject().append("url",splitArray[0]));
 
-                File file = new File("C:\\Users\\BAHI\\IdeaProjects\\indexer\\input\\"+splitArray[0].replaceAll("[\\.$|,|;|'?*/:]", "")+".txt");
+                File file = new File("C:\\Users\\BAHI\\IdeaProjects\\indexer\\input\\"+splitArray[1]+".txt");
                 String data = new Scanner(file).useDelimiter("\\A").next();
                 file.delete();
 
-                String phrases=Jsoup.parse(data).text().toLowerCase().replaceAll("'", "").trim().replaceAll(" +", " ");
+               // Wordhashing.escapeHtml(data);
+
+               String phrases=Jsoup.parse(data).text().toLowerCase().replaceAll("'", "").trim().replaceAll(" +", " ");
                 String[] words=phrases.split(" ");
 
                 for(int i=0;i<words.length;i++)
-                    words_list.add(new BasicDBObject().append("word",words[i]).append("position",i).append("rank",0).append("image",0).append("url",splitArray[0]));
+                    words_list.add(new BasicDBObject().append("word",words[i]).append("origin",words[i]).append("position",i).append("rank",0).append("url",splitArray[0]));
 
+                System.out.println(itr++);
             }
             words_collection.remove(new BasicDBObject("$or",pages));
             words_page.remove(new BasicDBObject("$or",pages));
 
             words_collection.insert(words_list);
             words_page.insert(pages);
+
         }
-        catch(IOException e)
+        catch(Exception e)
         {
             System.out.println(e.getMessage());
         }
@@ -84,9 +89,9 @@ public class main {
             DB database = mongoClient.getDB("indexer");
             DBCollection pages=database.getCollection("pages");
             DBCollection words=database.getCollection("words");
-
-            update_Data(words,pages);
-
+            long time=System.currentTimeMillis();
+           // update_Data(words,pages);
+            System.out.println(System.currentTimeMillis()-time);
             indexer Indexer=new indexer(pages.find().toArray(),words);
 
             Scanner scan=new Scanner(System.in);
