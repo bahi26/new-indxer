@@ -30,9 +30,10 @@ public class Wordhashing {
 
     }
 
-    public static void escapeHtml(String source) throws NoSuchFieldException, IllegalAccessException {
+    public static ArrayList escapeHtml(String source) throws NoSuchFieldException, IllegalAccessException {
         Document doc = Jsoup.parse(source);
         long index=0;
+        ArrayList returned = new ArrayList<String>();
         //h1,h2,h3,h4,h5,h6,p,title,img,source
         org.jsoup.select.Elements  elements = doc.getAllElements();
         for (Element element : elements) {
@@ -56,9 +57,9 @@ public class Wordhashing {
                     ArrayList data = new ArrayList<String>();
                         data= words(text,priority,index);
 
-                    for(Object word : data)
-                        System.out.println(word);
+                  //  for(Object word : data)System.out.println(word);
 
+                    returned.addAll(data);
                     index +=data.size();
                 }
 
@@ -68,6 +69,7 @@ public class Wordhashing {
 
         words(Integer.toString(vedio),map.get("so"),index);
         vedio=0;
+        return returned;
 
     }
 
