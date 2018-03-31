@@ -43,7 +43,7 @@ public class Wordhashing {
                     element.tag().getClass().getDeclaredField("preserveWhitespace").setAccessible(true);
                     element.tag().getClass().getDeclaredField("preserveWhitespace").set(element.tag(), true);
                 }
-                System.out.println(element.tagName()+" :    ");
+           //     System.out.println(element.tagName()+" :    ");
                 String text="";
                 if(part.equals("im")){
                     text=element.attr("alt");
@@ -57,7 +57,7 @@ public class Wordhashing {
                     ArrayList data = new ArrayList<String>();
                         data= words(text,priority,index);
 
-                  //  for(Object word : data)System.out.println(word);
+               
 
                     returned.addAll(data);
                     index +=data.size();
@@ -69,6 +69,13 @@ public class Wordhashing {
 
         words(Integer.toString(vedio),map.get("so"),index);
         vedio=0;
+
+
+		// test array size
+		   for(Object word : returned)System.out.println(word);
+		   System.out.println("ARRAY SIZE : "+returned.size());
+		//
+		
         return returned;
 
     }
@@ -124,7 +131,7 @@ public class Wordhashing {
                 String Tag= Integer.toString(tag);
                 String Position=Long.toString(index+j+1);
                 result.add(Text+' '+OriginalText+' '+Position+' '+tag);
-                int i1 = j++;
+                j++;
             }
         }
 
