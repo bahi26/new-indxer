@@ -67,7 +67,7 @@ public class Wordhashing {
 
         }
 
-        words(Integer.toString(vedio),map.get("so"),index);
+        returned.addAll( words(Integer.toString(vedio),map.get("so"),index));
         vedio=0;
 
 
