@@ -1,29 +1,32 @@
 public class word implements Comparable<word>  {
-    public int postition,rank;
+    public int position,rank,page_size;
     public String page,origin;
 
-    public word(String page,int postition,int rank,String origin)
+    public word(String page,int position,int rank,String origin,int page_size)
     {
+
         this.page=page;
-        this.postition=postition;
+        this.position=position;
         this.rank=rank;
         this.origin=origin;
+        this.page_size=page_size;
     }
 
 
-    public int compareTo(word word2) {
-        if(word2.rank==this.rank)
+    public int compareTo(word word2)
+    {
+        if(word2.page.equals(this.page))
+            if(word2.position>this.position)
+                return 1;
+            else
+                return -1;
+        else
         {
-            if(this.postition<word2.postition)
+            if(word2.page.compareTo(this.page)>0)
                 return 1;
             else
                 return -1;
         }
-        else
-        if(word2.rank<this.rank)
-            return 1;
-        else
-            return -1;
     }
 
 

@@ -11,29 +11,23 @@ import org.jsoup.nodes.Document;
 public class Wordhashing {
     static Map<String,Integer> map = new Hashtable();
     static int priority=-1;
-    static int vedio =0;
     static  String part= "";
 
     public static void main(String args[]) throws FileNotFoundException, NoSuchFieldException {
-        map.put("p", 0);
-        map.put("h1", 1);
-        map.put("h2", 2);
-        map.put("h3", 3);
-        map.put("h4", 4);
-        map.put("h5", 5);
-        map.put("h6", 6);
-        map.put("im", 7);
-        map.put("so", 8);
-        map.put("ti", 9);
 
-
+        intialize();
 
     }
 
     public static ArrayList escapeHtml(String source) throws NoSuchFieldException, IllegalAccessException {
+        //System.out.println(source);
+
         Document doc = Jsoup.parse(source);
         long index=0;
         ArrayList returned = new ArrayList<String>();
+        String text="";
+
+
         //h1,h2,h3,h4,h5,h6,p,title,img,source
         org.jsoup.select.Elements  elements = doc.getAllElements();
         for (Element element : elements) {
@@ -43,39 +37,31 @@ public class Wordhashing {
                     element.tag().getClass().getDeclaredField("preserveWhitespace").setAccessible(true);
                     element.tag().getClass().getDeclaredField("preserveWhitespace").set(element.tag(), true);
                 }
-           //     System.out.println(element.tagName()+" :    ");
-                String text="";
+
+
                 if(part.equals("im")){
                     text=element.attr("alt");
                 }
-                else if(part.equals("so")){
-                    text="";
-                    vedio=1;
-                }
+
                 else text=element.text();
+
                 if(text!= ""){
-                    ArrayList data = new ArrayList<String>();
-                        data= words(text,priority,index);
 
-               
 
-                    returned.addAll(data);
-                    index +=data.size();
+                    returned.addAll(words(text,priority,index));
+                    index =returned.size();
                 }
 
             }
 
         }
 
-        words(Integer.toString(vedio),map.get("so"),index);
-        vedio=0;
 
+        // test array size
+		   /*for(Object word : returned)System.out.println(word);
+		   System.out.println("ARRAY SIZE : "+returned.size());*/
+        //
 
-		// test array size
-		   for(Object word : returned)System.out.println(word);
-		   System.out.println("ARRAY SIZE : "+returned.size());
-		//
-		
         return returned;
 
     }
@@ -86,25 +72,20 @@ public class Wordhashing {
 
     public static boolean check_tag(String tag_name){
 //h1,h2,h3,h4,h5,h6,p,title,img,header
-        String key=new String();
+
         int n=(tag_name.length()<2)?1:2;
         part= tag_name.substring(0, n);
 
 
-        boolean ans= (part.equals("h1") ||part.equals("h2") ||part.equals("h3") ||part.equals("h4") ||part.equals("h5") ||part.equals("h6") ||part.charAt(0)=='p'||part.equals("im")||part.equals("ti")||part.equals("so") );
+        boolean ans= (part.equals("h1") ||part.equals("h2")||part.equals("h3")||part.equals("h4")||part.equals("h5")||part.equals("h6")||part.charAt(0)==('p')||part.charAt(0)==('B') ||part.equals("st") ||part.equals("im")||part.equals("ti") );
         if(ans){
-            if( part.charAt(0)=='p') priority=map.get( "p");
-            else  priority=map.get(part);
+            if( part.charAt(0)=='B') priority=map.get( "B");
+            else if(part.charAt(0)=='p') priority=map.get( "p");
+            else
+                priority=map.get(part);
         }
         else  priority =-1;
         return  ans;
-    }
-    public static String[] stream(String[] arr) {
-        ArrayList<String> removedNull = new ArrayList<String>();
-        for (String str : arr)
-            if (str != null)
-                removedNull.add(str);
-        return removedNull.toArray(new String[0]);
     }
 
     public static ArrayList words(String line, int tag,long index)
@@ -115,7 +96,6 @@ public class Wordhashing {
 
         String[] words_list = line.split("[ \t\n,\\.\"!?$~()\\[\\]\\{\\}:;/\\\\<>+=%*]");
 
-        words_list =stream(words_list);
 
         int j=0;
 
@@ -127,10 +107,7 @@ public class Wordhashing {
 
 
                 String Text=Stemmer.stem(word);
-                String OriginalText=word;
-                String Tag= Integer.toString(tag);
-                String Position=Long.toString(index+j+1);
-                result.add(Text+' '+OriginalText+' '+Position+' '+tag);
+                result.add(Text+' '+word+' '+Long.toString(index+j+1)+' '+tag);
                 j++;
             }
         }
@@ -138,5 +115,17 @@ public class Wordhashing {
         return result;
     }
 
+    public static void intialize(){
+        map.put("im", 0);
+        map.put("ti", 10);
+        map.put("h1", 8);
+        map.put("h2", 6);
+        map.put("st", 6);
+        map.put("B" , 6);
+        map.put("p" , 5); map.put("h3" , 5); map.put("h4" , 5); map.put("h5" , 5); map.put("h6" , 5);
 
+
+
+
+    }
 }
