@@ -2,322 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef79d147-3dac-4aeb-bb35-a212fef3196b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/indexer.iml" afterPath="$PROJECT_DIR$/indexer.iml" />
-      <change beforePath="$PROJECT_DIR$/input/538.txt" afterPath="$PROJECT_DIR$/input/538.txt" />
-      <change beforePath="$PROJECT_DIR$/input/539.txt" afterPath="$PROJECT_DIR$/input/539.txt" />
-      <change beforePath="$PROJECT_DIR$/input/540.txt" afterPath="$PROJECT_DIR$/input/540.txt" />
-      <change beforePath="$PROJECT_DIR$/input/541.txt" afterPath="$PROJECT_DIR$/input/541.txt" />
-      <change beforePath="$PROJECT_DIR$/input/542.txt" afterPath="$PROJECT_DIR$/input/542.txt" />
-      <change beforePath="$PROJECT_DIR$/input/543.txt" afterPath="$PROJECT_DIR$/input/543.txt" />
-      <change beforePath="$PROJECT_DIR$/input/544.txt" afterPath="$PROJECT_DIR$/input/544.txt" />
-      <change beforePath="$PROJECT_DIR$/input/545.txt" afterPath="$PROJECT_DIR$/input/545.txt" />
-      <change beforePath="$PROJECT_DIR$/input/546.txt" afterPath="$PROJECT_DIR$/input/546.txt" />
-      <change beforePath="$PROJECT_DIR$/input/547.txt" afterPath="$PROJECT_DIR$/input/547.txt" />
-      <change beforePath="$PROJECT_DIR$/input/548.txt" afterPath="$PROJECT_DIR$/input/548.txt" />
-      <change beforePath="$PROJECT_DIR$/input/549.txt" afterPath="$PROJECT_DIR$/input/549.txt" />
-      <change beforePath="$PROJECT_DIR$/input/550.txt" afterPath="$PROJECT_DIR$/input/550.txt" />
-      <change beforePath="$PROJECT_DIR$/input/551.txt" afterPath="$PROJECT_DIR$/input/551.txt" />
-      <change beforePath="$PROJECT_DIR$/input/552.txt" afterPath="$PROJECT_DIR$/input/552.txt" />
-      <change beforePath="$PROJECT_DIR$/input/553.txt" afterPath="$PROJECT_DIR$/input/553.txt" />
-      <change beforePath="$PROJECT_DIR$/input/554.txt" afterPath="$PROJECT_DIR$/input/554.txt" />
-      <change beforePath="$PROJECT_DIR$/input/555.txt" afterPath="$PROJECT_DIR$/input/555.txt" />
-      <change beforePath="$PROJECT_DIR$/input/556.txt" afterPath="$PROJECT_DIR$/input/556.txt" />
-      <change beforePath="$PROJECT_DIR$/input/557.txt" afterPath="$PROJECT_DIR$/input/557.txt" />
-      <change beforePath="$PROJECT_DIR$/input/558.txt" afterPath="$PROJECT_DIR$/input/558.txt" />
-      <change beforePath="$PROJECT_DIR$/input/559.txt" afterPath="$PROJECT_DIR$/input/559.txt" />
-      <change beforePath="$PROJECT_DIR$/input/560.txt" afterPath="$PROJECT_DIR$/input/560.txt" />
-      <change beforePath="$PROJECT_DIR$/input/561.txt" afterPath="$PROJECT_DIR$/input/561.txt" />
-      <change beforePath="$PROJECT_DIR$/input/562.txt" afterPath="$PROJECT_DIR$/input/562.txt" />
-      <change beforePath="$PROJECT_DIR$/input/563.txt" afterPath="$PROJECT_DIR$/input/563.txt" />
-      <change beforePath="$PROJECT_DIR$/input/564.txt" afterPath="$PROJECT_DIR$/input/564.txt" />
-      <change beforePath="$PROJECT_DIR$/input/565.txt" afterPath="$PROJECT_DIR$/input/565.txt" />
-      <change beforePath="$PROJECT_DIR$/input/566.txt" afterPath="$PROJECT_DIR$/input/566.txt" />
-      <change beforePath="$PROJECT_DIR$/input/567.txt" afterPath="$PROJECT_DIR$/input/567.txt" />
-      <change beforePath="$PROJECT_DIR$/input/568.txt" afterPath="$PROJECT_DIR$/input/568.txt" />
-      <change beforePath="$PROJECT_DIR$/input/569.txt" afterPath="$PROJECT_DIR$/input/569.txt" />
-      <change beforePath="$PROJECT_DIR$/input/570.txt" afterPath="$PROJECT_DIR$/input/570.txt" />
-      <change beforePath="$PROJECT_DIR$/input/571.txt" afterPath="$PROJECT_DIR$/input/571.txt" />
-      <change beforePath="$PROJECT_DIR$/input/572.txt" afterPath="$PROJECT_DIR$/input/572.txt" />
-      <change beforePath="$PROJECT_DIR$/input/573.txt" afterPath="$PROJECT_DIR$/input/573.txt" />
-      <change beforePath="$PROJECT_DIR$/input/574.txt" afterPath="$PROJECT_DIR$/input/574.txt" />
-      <change beforePath="$PROJECT_DIR$/input/575.txt" afterPath="$PROJECT_DIR$/input/575.txt" />
-      <change beforePath="$PROJECT_DIR$/input/576.txt" afterPath="$PROJECT_DIR$/input/576.txt" />
-      <change beforePath="$PROJECT_DIR$/input/577.txt" afterPath="$PROJECT_DIR$/input/577.txt" />
-      <change beforePath="$PROJECT_DIR$/input/578.txt" afterPath="$PROJECT_DIR$/input/578.txt" />
-      <change beforePath="$PROJECT_DIR$/input/579.txt" afterPath="$PROJECT_DIR$/input/579.txt" />
-      <change beforePath="$PROJECT_DIR$/input/580.txt" afterPath="$PROJECT_DIR$/input/580.txt" />
-      <change beforePath="$PROJECT_DIR$/input/581.txt" afterPath="$PROJECT_DIR$/input/581.txt" />
-      <change beforePath="$PROJECT_DIR$/input/582.txt" afterPath="$PROJECT_DIR$/input/582.txt" />
-      <change beforePath="$PROJECT_DIR$/input/583.txt" afterPath="$PROJECT_DIR$/input/583.txt" />
-      <change beforePath="$PROJECT_DIR$/input/584.txt" afterPath="$PROJECT_DIR$/input/584.txt" />
-      <change beforePath="$PROJECT_DIR$/input/585.txt" afterPath="$PROJECT_DIR$/input/585.txt" />
-      <change beforePath="$PROJECT_DIR$/input/586.txt" afterPath="$PROJECT_DIR$/input/586.txt" />
-      <change beforePath="$PROJECT_DIR$/input/587.txt" afterPath="$PROJECT_DIR$/input/587.txt" />
-      <change beforePath="$PROJECT_DIR$/input/588.txt" afterPath="$PROJECT_DIR$/input/588.txt" />
-      <change beforePath="$PROJECT_DIR$/input/589.txt" afterPath="$PROJECT_DIR$/input/589.txt" />
-      <change beforePath="$PROJECT_DIR$/input/590.txt" afterPath="$PROJECT_DIR$/input/590.txt" />
-      <change beforePath="$PROJECT_DIR$/input/591.txt" afterPath="$PROJECT_DIR$/input/591.txt" />
-      <change beforePath="$PROJECT_DIR$/input/592.txt" afterPath="$PROJECT_DIR$/input/592.txt" />
-      <change beforePath="$PROJECT_DIR$/input/593.txt" afterPath="$PROJECT_DIR$/input/593.txt" />
-      <change beforePath="$PROJECT_DIR$/input/594.txt" afterPath="$PROJECT_DIR$/input/594.txt" />
-      <change beforePath="$PROJECT_DIR$/input/595.txt" afterPath="$PROJECT_DIR$/input/595.txt" />
-      <change beforePath="$PROJECT_DIR$/input/596.txt" afterPath="$PROJECT_DIR$/input/596.txt" />
-      <change beforePath="$PROJECT_DIR$/input/597.txt" afterPath="$PROJECT_DIR$/input/597.txt" />
-      <change beforePath="$PROJECT_DIR$/input/598.txt" afterPath="$PROJECT_DIR$/input/598.txt" />
-      <change beforePath="$PROJECT_DIR$/input/599.txt" afterPath="$PROJECT_DIR$/input/599.txt" />
-      <change beforePath="$PROJECT_DIR$/input/600.txt" afterPath="$PROJECT_DIR$/input/600.txt" />
-      <change beforePath="$PROJECT_DIR$/input/601.txt" afterPath="$PROJECT_DIR$/input/601.txt" />
-      <change beforePath="$PROJECT_DIR$/input/602.txt" afterPath="$PROJECT_DIR$/input/602.txt" />
-      <change beforePath="$PROJECT_DIR$/input/603.txt" afterPath="$PROJECT_DIR$/input/603.txt" />
-      <change beforePath="$PROJECT_DIR$/input/604.txt" afterPath="$PROJECT_DIR$/input/604.txt" />
-      <change beforePath="$PROJECT_DIR$/input/605.txt" afterPath="$PROJECT_DIR$/input/605.txt" />
-      <change beforePath="$PROJECT_DIR$/input/606.txt" afterPath="$PROJECT_DIR$/input/606.txt" />
-      <change beforePath="$PROJECT_DIR$/input/607.txt" afterPath="$PROJECT_DIR$/input/607.txt" />
-      <change beforePath="$PROJECT_DIR$/input/608.txt" afterPath="$PROJECT_DIR$/input/608.txt" />
-      <change beforePath="$PROJECT_DIR$/input/609.txt" afterPath="$PROJECT_DIR$/input/609.txt" />
-      <change beforePath="$PROJECT_DIR$/input/610.txt" afterPath="$PROJECT_DIR$/input/610.txt" />
-      <change beforePath="$PROJECT_DIR$/input/611.txt" afterPath="$PROJECT_DIR$/input/611.txt" />
-      <change beforePath="$PROJECT_DIR$/input/612.txt" afterPath="$PROJECT_DIR$/input/612.txt" />
-      <change beforePath="$PROJECT_DIR$/input/613.txt" afterPath="$PROJECT_DIR$/input/613.txt" />
-      <change beforePath="$PROJECT_DIR$/input/614.txt" afterPath="$PROJECT_DIR$/input/614.txt" />
-      <change beforePath="$PROJECT_DIR$/input/615.txt" afterPath="$PROJECT_DIR$/input/615.txt" />
-      <change beforePath="$PROJECT_DIR$/input/616.txt" afterPath="$PROJECT_DIR$/input/616.txt" />
-      <change beforePath="$PROJECT_DIR$/input/617.txt" afterPath="$PROJECT_DIR$/input/617.txt" />
-      <change beforePath="$PROJECT_DIR$/input/618.txt" afterPath="$PROJECT_DIR$/input/618.txt" />
-      <change beforePath="$PROJECT_DIR$/input/619.txt" afterPath="$PROJECT_DIR$/input/619.txt" />
-      <change beforePath="$PROJECT_DIR$/input/620.txt" afterPath="$PROJECT_DIR$/input/620.txt" />
-      <change beforePath="$PROJECT_DIR$/input/621.txt" afterPath="$PROJECT_DIR$/input/621.txt" />
-      <change beforePath="$PROJECT_DIR$/input/622.txt" afterPath="$PROJECT_DIR$/input/622.txt" />
-      <change beforePath="$PROJECT_DIR$/input/623.txt" afterPath="$PROJECT_DIR$/input/623.txt" />
-      <change beforePath="$PROJECT_DIR$/input/624.txt" afterPath="$PROJECT_DIR$/input/624.txt" />
-      <change beforePath="$PROJECT_DIR$/input/625.txt" afterPath="$PROJECT_DIR$/input/625.txt" />
-      <change beforePath="$PROJECT_DIR$/input/626.txt" afterPath="$PROJECT_DIR$/input/626.txt" />
-      <change beforePath="$PROJECT_DIR$/input/627.txt" afterPath="$PROJECT_DIR$/input/627.txt" />
-      <change beforePath="$PROJECT_DIR$/input/628.txt" afterPath="$PROJECT_DIR$/input/628.txt" />
-      <change beforePath="$PROJECT_DIR$/input/629.txt" afterPath="$PROJECT_DIR$/input/629.txt" />
-      <change beforePath="$PROJECT_DIR$/input/630.txt" afterPath="$PROJECT_DIR$/input/630.txt" />
-      <change beforePath="$PROJECT_DIR$/input/631.txt" afterPath="$PROJECT_DIR$/input/631.txt" />
-      <change beforePath="$PROJECT_DIR$/input/632.txt" afterPath="$PROJECT_DIR$/input/632.txt" />
-      <change beforePath="$PROJECT_DIR$/input/633.txt" afterPath="$PROJECT_DIR$/input/633.txt" />
-      <change beforePath="$PROJECT_DIR$/input/634.txt" afterPath="$PROJECT_DIR$/input/634.txt" />
-      <change beforePath="$PROJECT_DIR$/input/635.txt" afterPath="$PROJECT_DIR$/input/635.txt" />
-      <change beforePath="$PROJECT_DIR$/input/636.txt" afterPath="$PROJECT_DIR$/input/636.txt" />
-      <change beforePath="$PROJECT_DIR$/input/637.txt" afterPath="$PROJECT_DIR$/input/637.txt" />
-      <change beforePath="$PROJECT_DIR$/input/638.txt" afterPath="$PROJECT_DIR$/input/638.txt" />
-      <change beforePath="$PROJECT_DIR$/input/639.txt" afterPath="$PROJECT_DIR$/input/639.txt" />
-      <change beforePath="$PROJECT_DIR$/input/640.txt" afterPath="$PROJECT_DIR$/input/640.txt" />
-      <change beforePath="$PROJECT_DIR$/input/641.txt" afterPath="$PROJECT_DIR$/input/641.txt" />
-      <change beforePath="$PROJECT_DIR$/input/642.txt" afterPath="$PROJECT_DIR$/input/642.txt" />
-      <change beforePath="$PROJECT_DIR$/input/643.txt" afterPath="$PROJECT_DIR$/input/643.txt" />
-      <change beforePath="$PROJECT_DIR$/input/644.txt" afterPath="$PROJECT_DIR$/input/644.txt" />
-      <change beforePath="$PROJECT_DIR$/input/645.txt" afterPath="$PROJECT_DIR$/input/645.txt" />
-      <change beforePath="$PROJECT_DIR$/input/646.txt" afterPath="$PROJECT_DIR$/input/646.txt" />
-      <change beforePath="$PROJECT_DIR$/input/647.txt" afterPath="$PROJECT_DIR$/input/647.txt" />
-      <change beforePath="$PROJECT_DIR$/input/648.txt" afterPath="$PROJECT_DIR$/input/648.txt" />
-      <change beforePath="$PROJECT_DIR$/input/649.txt" afterPath="$PROJECT_DIR$/input/649.txt" />
-      <change beforePath="$PROJECT_DIR$/input/650.txt" afterPath="$PROJECT_DIR$/input/650.txt" />
-      <change beforePath="$PROJECT_DIR$/input/651.txt" afterPath="$PROJECT_DIR$/input/651.txt" />
-      <change beforePath="$PROJECT_DIR$/input/652.txt" afterPath="$PROJECT_DIR$/input/652.txt" />
-      <change beforePath="$PROJECT_DIR$/input/653.txt" afterPath="$PROJECT_DIR$/input/653.txt" />
-      <change beforePath="$PROJECT_DIR$/input/654.txt" afterPath="$PROJECT_DIR$/input/654.txt" />
-      <change beforePath="$PROJECT_DIR$/input/655.txt" afterPath="$PROJECT_DIR$/input/655.txt" />
-      <change beforePath="$PROJECT_DIR$/input/656.txt" afterPath="$PROJECT_DIR$/input/656.txt" />
-      <change beforePath="$PROJECT_DIR$/input/657.txt" afterPath="$PROJECT_DIR$/input/657.txt" />
-      <change beforePath="$PROJECT_DIR$/input/658.txt" afterPath="$PROJECT_DIR$/input/658.txt" />
-      <change beforePath="$PROJECT_DIR$/input/659.txt" afterPath="$PROJECT_DIR$/input/659.txt" />
-      <change beforePath="$PROJECT_DIR$/input/660.txt" afterPath="$PROJECT_DIR$/input/660.txt" />
-      <change beforePath="$PROJECT_DIR$/input/661.txt" afterPath="$PROJECT_DIR$/input/661.txt" />
-      <change beforePath="$PROJECT_DIR$/input/662.txt" afterPath="$PROJECT_DIR$/input/662.txt" />
-      <change beforePath="$PROJECT_DIR$/input/663.txt" afterPath="$PROJECT_DIR$/input/663.txt" />
-      <change beforePath="$PROJECT_DIR$/input/664.txt" afterPath="$PROJECT_DIR$/input/664.txt" />
-      <change beforePath="$PROJECT_DIR$/input/665.txt" afterPath="$PROJECT_DIR$/input/665.txt" />
-      <change beforePath="$PROJECT_DIR$/input/666.txt" afterPath="$PROJECT_DIR$/input/666.txt" />
-      <change beforePath="$PROJECT_DIR$/input/667.txt" afterPath="$PROJECT_DIR$/input/667.txt" />
-      <change beforePath="$PROJECT_DIR$/input/668.txt" afterPath="$PROJECT_DIR$/input/668.txt" />
-      <change beforePath="$PROJECT_DIR$/input/669.txt" afterPath="$PROJECT_DIR$/input/669.txt" />
-      <change beforePath="$PROJECT_DIR$/input/670.txt" afterPath="$PROJECT_DIR$/input/670.txt" />
-      <change beforePath="$PROJECT_DIR$/input/671.txt" afterPath="$PROJECT_DIR$/input/671.txt" />
-      <change beforePath="$PROJECT_DIR$/input/672.txt" afterPath="$PROJECT_DIR$/input/672.txt" />
-      <change beforePath="$PROJECT_DIR$/input/673.txt" afterPath="$PROJECT_DIR$/input/673.txt" />
-      <change beforePath="$PROJECT_DIR$/input/674.txt" afterPath="$PROJECT_DIR$/input/674.txt" />
-      <change beforePath="$PROJECT_DIR$/input/675.txt" afterPath="$PROJECT_DIR$/input/675.txt" />
-      <change beforePath="$PROJECT_DIR$/input/676.txt" afterPath="$PROJECT_DIR$/input/676.txt" />
-      <change beforePath="$PROJECT_DIR$/input/677.txt" afterPath="$PROJECT_DIR$/input/677.txt" />
-      <change beforePath="$PROJECT_DIR$/input/678.txt" afterPath="$PROJECT_DIR$/input/678.txt" />
-      <change beforePath="$PROJECT_DIR$/input/679.txt" afterPath="$PROJECT_DIR$/input/679.txt" />
-      <change beforePath="$PROJECT_DIR$/input/680.txt" afterPath="$PROJECT_DIR$/input/680.txt" />
-      <change beforePath="$PROJECT_DIR$/input/681.txt" afterPath="$PROJECT_DIR$/input/681.txt" />
-      <change beforePath="$PROJECT_DIR$/input/682.txt" afterPath="$PROJECT_DIR$/input/682.txt" />
-      <change beforePath="$PROJECT_DIR$/input/683.txt" afterPath="$PROJECT_DIR$/input/683.txt" />
-      <change beforePath="$PROJECT_DIR$/input/684.txt" afterPath="$PROJECT_DIR$/input/684.txt" />
-      <change beforePath="$PROJECT_DIR$/input/685.txt" afterPath="$PROJECT_DIR$/input/685.txt" />
-      <change beforePath="$PROJECT_DIR$/input/686.txt" afterPath="$PROJECT_DIR$/input/686.txt" />
-      <change beforePath="$PROJECT_DIR$/input/687.txt" afterPath="$PROJECT_DIR$/input/687.txt" />
-      <change beforePath="$PROJECT_DIR$/input/688.txt" afterPath="$PROJECT_DIR$/input/688.txt" />
-      <change beforePath="$PROJECT_DIR$/input/689.txt" afterPath="$PROJECT_DIR$/input/689.txt" />
-      <change beforePath="$PROJECT_DIR$/input/690.txt" afterPath="$PROJECT_DIR$/input/690.txt" />
-      <change beforePath="$PROJECT_DIR$/input/691.txt" afterPath="$PROJECT_DIR$/input/691.txt" />
-      <change beforePath="$PROJECT_DIR$/input/692.txt" afterPath="$PROJECT_DIR$/input/692.txt" />
-      <change beforePath="$PROJECT_DIR$/input/693.txt" afterPath="$PROJECT_DIR$/input/693.txt" />
-      <change beforePath="$PROJECT_DIR$/input/694.txt" afterPath="$PROJECT_DIR$/input/694.txt" />
-      <change beforePath="$PROJECT_DIR$/input/695.txt" afterPath="$PROJECT_DIR$/input/695.txt" />
-      <change beforePath="$PROJECT_DIR$/input/696.txt" afterPath="$PROJECT_DIR$/input/696.txt" />
-      <change beforePath="$PROJECT_DIR$/input/697.txt" afterPath="$PROJECT_DIR$/input/697.txt" />
-      <change beforePath="$PROJECT_DIR$/input/698.txt" afterPath="$PROJECT_DIR$/input/698.txt" />
-      <change beforePath="$PROJECT_DIR$/input/699.txt" afterPath="$PROJECT_DIR$/input/699.txt" />
-      <change beforePath="$PROJECT_DIR$/input/700.txt" afterPath="$PROJECT_DIR$/input/700.txt" />
-      <change beforePath="$PROJECT_DIR$/input/701.txt" afterPath="$PROJECT_DIR$/input/701.txt" />
-      <change beforePath="$PROJECT_DIR$/input/702.txt" afterPath="$PROJECT_DIR$/input/702.txt" />
-      <change beforePath="$PROJECT_DIR$/input/703.txt" afterPath="$PROJECT_DIR$/input/703.txt" />
-      <change beforePath="$PROJECT_DIR$/input/704.txt" afterPath="$PROJECT_DIR$/input/704.txt" />
-      <change beforePath="$PROJECT_DIR$/input/705.txt" afterPath="$PROJECT_DIR$/input/705.txt" />
-      <change beforePath="$PROJECT_DIR$/input/706.txt" afterPath="$PROJECT_DIR$/input/706.txt" />
-      <change beforePath="$PROJECT_DIR$/input/707.txt" afterPath="$PROJECT_DIR$/input/707.txt" />
-      <change beforePath="$PROJECT_DIR$/input/708.txt" afterPath="$PROJECT_DIR$/input/708.txt" />
-      <change beforePath="$PROJECT_DIR$/input/709.txt" afterPath="$PROJECT_DIR$/input/709.txt" />
-      <change beforePath="$PROJECT_DIR$/input/710.txt" afterPath="$PROJECT_DIR$/input/710.txt" />
-      <change beforePath="$PROJECT_DIR$/input/711.txt" afterPath="$PROJECT_DIR$/input/711.txt" />
-      <change beforePath="$PROJECT_DIR$/input/712.txt" afterPath="$PROJECT_DIR$/input/712.txt" />
-      <change beforePath="$PROJECT_DIR$/input/713.txt" afterPath="$PROJECT_DIR$/input/713.txt" />
-      <change beforePath="$PROJECT_DIR$/input/714.txt" afterPath="$PROJECT_DIR$/input/714.txt" />
-      <change beforePath="$PROJECT_DIR$/input/715.txt" afterPath="$PROJECT_DIR$/input/715.txt" />
-      <change beforePath="$PROJECT_DIR$/input/716.txt" afterPath="$PROJECT_DIR$/input/716.txt" />
-      <change beforePath="$PROJECT_DIR$/input/717.txt" afterPath="$PROJECT_DIR$/input/717.txt" />
-      <change beforePath="$PROJECT_DIR$/input/718.txt" afterPath="$PROJECT_DIR$/input/718.txt" />
-      <change beforePath="$PROJECT_DIR$/input/719.txt" afterPath="$PROJECT_DIR$/input/719.txt" />
-      <change beforePath="$PROJECT_DIR$/input/720.txt" afterPath="$PROJECT_DIR$/input/720.txt" />
-      <change beforePath="$PROJECT_DIR$/input/721.txt" afterPath="$PROJECT_DIR$/input/721.txt" />
-      <change beforePath="$PROJECT_DIR$/input/722.txt" afterPath="$PROJECT_DIR$/input/722.txt" />
-      <change beforePath="$PROJECT_DIR$/input/723.txt" afterPath="$PROJECT_DIR$/input/723.txt" />
-      <change beforePath="$PROJECT_DIR$/input/724.txt" afterPath="$PROJECT_DIR$/input/724.txt" />
-      <change beforePath="$PROJECT_DIR$/input/725.txt" afterPath="$PROJECT_DIR$/input/725.txt" />
-      <change beforePath="$PROJECT_DIR$/input/726.txt" afterPath="$PROJECT_DIR$/input/726.txt" />
-      <change beforePath="$PROJECT_DIR$/input/727.txt" afterPath="$PROJECT_DIR$/input/727.txt" />
-      <change beforePath="$PROJECT_DIR$/input/728.txt" afterPath="$PROJECT_DIR$/input/728.txt" />
-      <change beforePath="$PROJECT_DIR$/input/729.txt" afterPath="$PROJECT_DIR$/input/729.txt" />
-      <change beforePath="$PROJECT_DIR$/input/730.txt" afterPath="$PROJECT_DIR$/input/730.txt" />
-      <change beforePath="$PROJECT_DIR$/input/731.txt" afterPath="$PROJECT_DIR$/input/731.txt" />
-      <change beforePath="$PROJECT_DIR$/input/732.txt" afterPath="$PROJECT_DIR$/input/732.txt" />
-      <change beforePath="$PROJECT_DIR$/input/733.txt" afterPath="$PROJECT_DIR$/input/733.txt" />
-      <change beforePath="$PROJECT_DIR$/input/734.txt" afterPath="$PROJECT_DIR$/input/734.txt" />
-      <change beforePath="$PROJECT_DIR$/input/735.txt" afterPath="$PROJECT_DIR$/input/735.txt" />
-      <change beforePath="$PROJECT_DIR$/input/736.txt" afterPath="$PROJECT_DIR$/input/736.txt" />
-      <change beforePath="$PROJECT_DIR$/input/737.txt" afterPath="$PROJECT_DIR$/input/737.txt" />
-      <change beforePath="$PROJECT_DIR$/input/738.txt" afterPath="$PROJECT_DIR$/input/738.txt" />
-      <change beforePath="$PROJECT_DIR$/input/739.txt" afterPath="$PROJECT_DIR$/input/739.txt" />
-      <change beforePath="$PROJECT_DIR$/input/740.txt" afterPath="$PROJECT_DIR$/input/740.txt" />
-      <change beforePath="$PROJECT_DIR$/input/741.txt" afterPath="$PROJECT_DIR$/input/741.txt" />
-      <change beforePath="$PROJECT_DIR$/input/742.txt" afterPath="$PROJECT_DIR$/input/742.txt" />
-      <change beforePath="$PROJECT_DIR$/input/743.txt" afterPath="$PROJECT_DIR$/input/743.txt" />
-      <change beforePath="$PROJECT_DIR$/input/744.txt" afterPath="$PROJECT_DIR$/input/744.txt" />
-      <change beforePath="$PROJECT_DIR$/input/745.txt" afterPath="$PROJECT_DIR$/input/745.txt" />
-      <change beforePath="$PROJECT_DIR$/input/746.txt" afterPath="$PROJECT_DIR$/input/746.txt" />
-      <change beforePath="$PROJECT_DIR$/input/747.txt" afterPath="$PROJECT_DIR$/input/747.txt" />
-      <change beforePath="$PROJECT_DIR$/input/748.txt" afterPath="$PROJECT_DIR$/input/748.txt" />
-      <change beforePath="$PROJECT_DIR$/input/749.txt" afterPath="$PROJECT_DIR$/input/749.txt" />
-      <change beforePath="$PROJECT_DIR$/input/750.txt" afterPath="$PROJECT_DIR$/input/750.txt" />
-      <change beforePath="$PROJECT_DIR$/input/751.txt" afterPath="$PROJECT_DIR$/input/751.txt" />
-      <change beforePath="$PROJECT_DIR$/input/752.txt" afterPath="$PROJECT_DIR$/input/752.txt" />
-      <change beforePath="$PROJECT_DIR$/input/753.txt" afterPath="$PROJECT_DIR$/input/753.txt" />
-      <change beforePath="$PROJECT_DIR$/input/754.txt" afterPath="$PROJECT_DIR$/input/754.txt" />
-      <change beforePath="$PROJECT_DIR$/input/755.txt" afterPath="$PROJECT_DIR$/input/755.txt" />
-      <change beforePath="$PROJECT_DIR$/input/756.txt" afterPath="$PROJECT_DIR$/input/756.txt" />
-      <change beforePath="$PROJECT_DIR$/input/757.txt" afterPath="$PROJECT_DIR$/input/757.txt" />
-      <change beforePath="$PROJECT_DIR$/input/758.txt" afterPath="$PROJECT_DIR$/input/758.txt" />
-      <change beforePath="$PROJECT_DIR$/input/759.txt" afterPath="$PROJECT_DIR$/input/759.txt" />
-      <change beforePath="$PROJECT_DIR$/input/760.txt" afterPath="$PROJECT_DIR$/input/760.txt" />
-      <change beforePath="$PROJECT_DIR$/input/761.txt" afterPath="$PROJECT_DIR$/input/761.txt" />
-      <change beforePath="$PROJECT_DIR$/input/762.txt" afterPath="$PROJECT_DIR$/input/762.txt" />
-      <change beforePath="$PROJECT_DIR$/input/763.txt" afterPath="$PROJECT_DIR$/input/763.txt" />
-      <change beforePath="$PROJECT_DIR$/input/764.txt" afterPath="$PROJECT_DIR$/input/764.txt" />
-      <change beforePath="$PROJECT_DIR$/input/765.txt" afterPath="$PROJECT_DIR$/input/765.txt" />
-      <change beforePath="$PROJECT_DIR$/input/766.txt" afterPath="$PROJECT_DIR$/input/766.txt" />
-      <change beforePath="$PROJECT_DIR$/input/767.txt" afterPath="$PROJECT_DIR$/input/767.txt" />
-      <change beforePath="$PROJECT_DIR$/input/768.txt" afterPath="$PROJECT_DIR$/input/768.txt" />
-      <change beforePath="$PROJECT_DIR$/input/769.txt" afterPath="$PROJECT_DIR$/input/769.txt" />
-      <change beforePath="$PROJECT_DIR$/input/770.txt" afterPath="$PROJECT_DIR$/input/770.txt" />
-      <change beforePath="$PROJECT_DIR$/input/771.txt" afterPath="$PROJECT_DIR$/input/771.txt" />
-      <change beforePath="$PROJECT_DIR$/input/772.txt" afterPath="$PROJECT_DIR$/input/772.txt" />
-      <change beforePath="$PROJECT_DIR$/input/773.txt" afterPath="$PROJECT_DIR$/input/773.txt" />
-      <change beforePath="$PROJECT_DIR$/input/774.txt" afterPath="$PROJECT_DIR$/input/774.txt" />
-      <change beforePath="$PROJECT_DIR$/input/775.txt" afterPath="$PROJECT_DIR$/input/775.txt" />
-      <change beforePath="$PROJECT_DIR$/input/776.txt" afterPath="$PROJECT_DIR$/input/776.txt" />
-      <change beforePath="$PROJECT_DIR$/input/777.txt" afterPath="$PROJECT_DIR$/input/777.txt" />
-      <change beforePath="$PROJECT_DIR$/input/778.txt" afterPath="$PROJECT_DIR$/input/778.txt" />
-      <change beforePath="$PROJECT_DIR$/input/779.txt" afterPath="$PROJECT_DIR$/input/779.txt" />
-      <change beforePath="$PROJECT_DIR$/input/780.txt" afterPath="$PROJECT_DIR$/input/780.txt" />
-      <change beforePath="$PROJECT_DIR$/input/781.txt" afterPath="$PROJECT_DIR$/input/781.txt" />
-      <change beforePath="$PROJECT_DIR$/input/782.txt" afterPath="$PROJECT_DIR$/input/782.txt" />
-      <change beforePath="$PROJECT_DIR$/input/783.txt" afterPath="$PROJECT_DIR$/input/783.txt" />
-      <change beforePath="$PROJECT_DIR$/input/784.txt" afterPath="$PROJECT_DIR$/input/784.txt" />
-      <change beforePath="$PROJECT_DIR$/input/785.txt" afterPath="$PROJECT_DIR$/input/785.txt" />
-      <change beforePath="$PROJECT_DIR$/input/786.txt" afterPath="$PROJECT_DIR$/input/786.txt" />
-      <change beforePath="$PROJECT_DIR$/input/787.txt" afterPath="$PROJECT_DIR$/input/787.txt" />
-      <change beforePath="$PROJECT_DIR$/input/788.txt" afterPath="$PROJECT_DIR$/input/788.txt" />
-      <change beforePath="$PROJECT_DIR$/input/789.txt" afterPath="$PROJECT_DIR$/input/789.txt" />
-      <change beforePath="$PROJECT_DIR$/input/790.txt" afterPath="$PROJECT_DIR$/input/790.txt" />
-      <change beforePath="$PROJECT_DIR$/input/791.txt" afterPath="$PROJECT_DIR$/input/791.txt" />
-      <change beforePath="$PROJECT_DIR$/input/792.txt" afterPath="$PROJECT_DIR$/input/792.txt" />
-      <change beforePath="$PROJECT_DIR$/input/793.txt" afterPath="$PROJECT_DIR$/input/793.txt" />
-      <change beforePath="$PROJECT_DIR$/input/794.txt" afterPath="$PROJECT_DIR$/input/794.txt" />
-      <change beforePath="$PROJECT_DIR$/input/795.txt" afterPath="$PROJECT_DIR$/input/795.txt" />
-      <change beforePath="$PROJECT_DIR$/input/796.txt" afterPath="$PROJECT_DIR$/input/796.txt" />
-      <change beforePath="$PROJECT_DIR$/input/797.txt" afterPath="$PROJECT_DIR$/input/797.txt" />
-      <change beforePath="$PROJECT_DIR$/input/798.txt" afterPath="$PROJECT_DIR$/input/798.txt" />
-      <change beforePath="$PROJECT_DIR$/input/799.txt" afterPath="$PROJECT_DIR$/input/799.txt" />
-      <change beforePath="$PROJECT_DIR$/input/800.txt" afterPath="$PROJECT_DIR$/input/800.txt" />
-      <change beforePath="$PROJECT_DIR$/input/801.txt" afterPath="$PROJECT_DIR$/input/801.txt" />
-      <change beforePath="$PROJECT_DIR$/input/802.txt" afterPath="$PROJECT_DIR$/input/802.txt" />
-      <change beforePath="$PROJECT_DIR$/input/803.txt" afterPath="$PROJECT_DIR$/input/803.txt" />
-      <change beforePath="$PROJECT_DIR$/input/804.txt" afterPath="$PROJECT_DIR$/input/804.txt" />
-      <change beforePath="$PROJECT_DIR$/input/805.txt" afterPath="$PROJECT_DIR$/input/805.txt" />
-      <change beforePath="$PROJECT_DIR$/input/806.txt" afterPath="$PROJECT_DIR$/input/806.txt" />
-      <change beforePath="$PROJECT_DIR$/input/807.txt" afterPath="$PROJECT_DIR$/input/807.txt" />
-      <change beforePath="$PROJECT_DIR$/input/808.txt" afterPath="$PROJECT_DIR$/input/808.txt" />
-      <change beforePath="$PROJECT_DIR$/input/809.txt" afterPath="$PROJECT_DIR$/input/809.txt" />
-      <change beforePath="$PROJECT_DIR$/input/810.txt" afterPath="$PROJECT_DIR$/input/810.txt" />
-      <change beforePath="$PROJECT_DIR$/input/811.txt" afterPath="$PROJECT_DIR$/input/811.txt" />
-      <change beforePath="$PROJECT_DIR$/input/812.txt" afterPath="$PROJECT_DIR$/input/812.txt" />
-      <change beforePath="$PROJECT_DIR$/input/813.txt" afterPath="$PROJECT_DIR$/input/813.txt" />
-      <change beforePath="$PROJECT_DIR$/input/814.txt" afterPath="$PROJECT_DIR$/input/814.txt" />
-      <change beforePath="$PROJECT_DIR$/input/815.txt" afterPath="$PROJECT_DIR$/input/815.txt" />
-      <change beforePath="$PROJECT_DIR$/input/816.txt" afterPath="$PROJECT_DIR$/input/816.txt" />
-      <change beforePath="$PROJECT_DIR$/input/817.txt" afterPath="$PROJECT_DIR$/input/817.txt" />
-      <change beforePath="$PROJECT_DIR$/input/818.txt" afterPath="$PROJECT_DIR$/input/818.txt" />
-      <change beforePath="$PROJECT_DIR$/input/819.txt" afterPath="$PROJECT_DIR$/input/819.txt" />
-      <change beforePath="$PROJECT_DIR$/input/820.txt" afterPath="$PROJECT_DIR$/input/820.txt" />
-      <change beforePath="$PROJECT_DIR$/input/821.txt" afterPath="$PROJECT_DIR$/input/821.txt" />
-      <change beforePath="$PROJECT_DIR$/input/822.txt" afterPath="$PROJECT_DIR$/input/822.txt" />
-      <change beforePath="$PROJECT_DIR$/input/823.txt" afterPath="$PROJECT_DIR$/input/823.txt" />
-      <change beforePath="$PROJECT_DIR$/input/824.txt" afterPath="$PROJECT_DIR$/input/824.txt" />
-      <change beforePath="$PROJECT_DIR$/input/825.txt" afterPath="$PROJECT_DIR$/input/825.txt" />
-      <change beforePath="$PROJECT_DIR$/input/826.txt" afterPath="$PROJECT_DIR$/input/826.txt" />
-      <change beforePath="$PROJECT_DIR$/input/827.txt" afterPath="$PROJECT_DIR$/input/827.txt" />
-      <change beforePath="$PROJECT_DIR$/input/828.txt" afterPath="$PROJECT_DIR$/input/828.txt" />
-      <change beforePath="$PROJECT_DIR$/input/829.txt" afterPath="$PROJECT_DIR$/input/829.txt" />
-      <change beforePath="$PROJECT_DIR$/input/830.txt" afterPath="$PROJECT_DIR$/input/830.txt" />
-      <change beforePath="$PROJECT_DIR$/input/831.txt" afterPath="$PROJECT_DIR$/input/831.txt" />
-      <change beforePath="$PROJECT_DIR$/input/832.txt" afterPath="$PROJECT_DIR$/input/832.txt" />
-      <change beforePath="$PROJECT_DIR$/input/833.txt" afterPath="$PROJECT_DIR$/input/833.txt" />
-      <change beforePath="$PROJECT_DIR$/input/834.txt" afterPath="$PROJECT_DIR$/input/834.txt" />
-      <change beforePath="$PROJECT_DIR$/input/835.txt" afterPath="$PROJECT_DIR$/input/835.txt" />
-      <change beforePath="$PROJECT_DIR$/input/836.txt" afterPath="$PROJECT_DIR$/input/836.txt" />
-      <change beforePath="$PROJECT_DIR$/input/837.txt" afterPath="$PROJECT_DIR$/input/837.txt" />
-      <change beforePath="$PROJECT_DIR$/input/838.txt" afterPath="$PROJECT_DIR$/input/838.txt" />
-      <change beforePath="$PROJECT_DIR$/input/839.txt" afterPath="$PROJECT_DIR$/input/839.txt" />
-      <change beforePath="$PROJECT_DIR$/input/840.txt" afterPath="$PROJECT_DIR$/input/840.txt" />
-      <change beforePath="$PROJECT_DIR$/input/ForIndexer.txt" afterPath="$PROJECT_DIR$/input/ForIndexer.txt" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Wordhashing.java" afterPath="$PROJECT_DIR$/src/main/java/Wordhashing.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/indexer.java" afterPath="$PROJECT_DIR$/src/main/java/indexer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" afterPath="$PROJECT_DIR$/src/main/java/main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/word.java" afterPath="$PROJECT_DIR$/src/main/java/word.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Wordhashing.class" afterPath="$PROJECT_DIR$/target/classes/Wordhashing.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/indexer.class" afterPath="$PROJECT_DIR$/target/classes/indexer.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main.class" afterPath="$PROJECT_DIR$/target/classes/main.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/word.class" afterPath="$PROJECT_DIR$/target/classes/word.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -358,22 +44,20 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Page.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2008">
+            <state relative-caret-position="808">
               <caret line="124" column="74" lean-forward="false" selection-start-line="124" selection-start-column="74" selection-end-line="124" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#set_Data#0;class#main#0" expanded="false" />
-                <element signature="e#1290#1319#0" expanded="true" />
-                <element signature="e#1838#1848#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -386,9 +70,6 @@
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-                <element signature="e#2389#2397#0" expanded="true" />
-                <element signature="e#2939#2947#0" expanded="true" />
-                <element signature="e#2995#3004#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -436,13 +117,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Wordhashing.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Wordhashing.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Wordhashing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1953">
-              <caret line="124" column="99" lean-forward="false" selection-start-line="124" selection-start-column="99" selection-end-line="124" selection-end-column="99" />
+            <state relative-caret-position="336">
+              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding>
+                <element signature="method#main#0;class#Wordhashing#0" expanded="false" />
+                <element signature="method#escapeHtml#0;class#Wordhashing#0" expanded="false" />
+                <element signature="method#check_tag#0;class#Wordhashing#0" expanded="false" />
                 <element signature="method#words#0;class#Wordhashing#0" expanded="false" />
+                <element signature="method#intialize#0;class#Wordhashing#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -481,10 +166,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Stemmer.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Page.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Wordhashing.java" />
         <option value="$PROJECT_DIR$/src/main/java/word.java" />
         <option value="$PROJECT_DIR$/src/main/java/indexer.java" />
         <option value="$PROJECT_DIR$/src/main/java/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Wordhashing.java" />
       </list>
     </option>
   </component>
@@ -537,6 +222,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -566,10 +254,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -748,14 +433,16 @@
       <workItem from="1524483178025" duration="4283000" />
       <workItem from="1524487792710" duration="819000" />
       <workItem from="1524533371642" duration="9978000" />
+      <workItem from="1524553772229" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102646000" />
+    <option name="totallyTimeSpent" value="102733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -833,8 +520,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -870,9 +555,6 @@
           <caret line="60" column="8" lean-forward="false" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
           <folding>
             <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-            <element signature="e#2389#2397#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
-            <element signature="e#2995#3004#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -884,8 +566,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -919,9 +599,6 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-            <element signature="e#2389#2397#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
-            <element signature="e#2995#3004#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -933,8 +610,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -968,9 +643,6 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-            <element signature="e#2389#2397#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
-            <element signature="e#2995#3004#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -982,8 +654,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1017,9 +687,6 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-            <element signature="e#2389#2397#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
-            <element signature="e#2995#3004#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1031,8 +698,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1052,8 +717,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1095,8 +758,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1122,9 +783,6 @@
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-            <element signature="e#2389#2397#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
-            <element signature="e#2995#3004#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1136,8 +794,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1237,16 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Wordhashing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1953">
-          <caret line="124" column="99" lean-forward="false" selection-start-line="124" selection-start-column="99" selection-end-line="124" selection-end-column="99" />
-          <folding>
-            <element signature="method#words#0;class#Wordhashing#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/word.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1258,7 +904,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1269,22 +915,31 @@
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="method#ranker#0;class#indexer#0" expanded="false" />
-            <element signature="e#2389#2397#0" expanded="true" />
-            <element signature="e#2939#2947#0" expanded="true" />
-            <element signature="e#2995#3004#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2008">
+        <state relative-caret-position="808">
           <caret line="124" column="74" lean-forward="false" selection-start-line="124" selection-start-column="74" selection-end-line="124" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#set_Data#0;class#main#0" expanded="false" />
-            <element signature="e#1290#1319#0" expanded="true" />
-            <element signature="e#1838#1848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Wordhashing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="method#main#0;class#Wordhashing#0" expanded="false" />
+            <element signature="method#escapeHtml#0;class#Wordhashing#0" expanded="false" />
+            <element signature="method#check_tag#0;class#Wordhashing#0" expanded="false" />
+            <element signature="method#words#0;class#Wordhashing#0" expanded="false" />
+            <element signature="method#intialize#0;class#Wordhashing#0" expanded="false" />
           </folding>
         </state>
       </provider>
